@@ -1,0 +1,19 @@
+team: devops_team
+component_name: payment-panel
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - merchant-gateway-server
+  - fi-gateway-server
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - payment-panel
+  - PAYMENT-PANEL
+  - payment_panel
+external_id: payment-panel

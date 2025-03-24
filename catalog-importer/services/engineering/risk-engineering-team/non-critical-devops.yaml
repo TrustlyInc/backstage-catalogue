@@ -1,0 +1,12 @@
+team: devops_team
+component_name: non-critical-devops
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - non-critical-devops
+  - NON-CRITICAL-DEVOPS
+  - non_critical_devops
+external_id: non-critical-devops

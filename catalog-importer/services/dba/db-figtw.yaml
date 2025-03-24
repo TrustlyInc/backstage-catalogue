@@ -1,0 +1,14 @@
+team: dba_team
+component_name: db-figtw
+description: Service Monitoring DBA related amer-figtw alerts.
+escalation_policy: DBA Monitoring Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - PRO
+aliases:
+  - db-figtw
+  - DB-FIGTW
+  - db_figtw
+external_id: DB-FIGTW

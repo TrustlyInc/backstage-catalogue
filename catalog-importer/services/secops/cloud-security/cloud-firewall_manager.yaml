@@ -1,0 +1,13 @@
+team: secops_team
+component_name: firewall-manager
+description: Events from AWS Firewall Manager.
+escalation_policy: SecOps - Cloud Security Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - CLOUD
+aliases:
+  - firewall-manager
+  - FIREWALL-MANAGER
+  - firewall_manager
+external_id: Firewall Manager

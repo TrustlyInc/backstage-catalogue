@@ -1,0 +1,14 @@
+team: riskds_team
+component_name: merchant-daily-limit-notification
+description: Service for Merchant Daily Limit Notification
+escalation_policy: Risk Data Science Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+  - INT
+aliases:
+  - merchant-daily-limit-notification
+  - MERCHANT-DAILY-LIMIT-NOTIFICATION
+  - merchant_daily_limit_notification
+external_id: merchant-daily-limit-notification

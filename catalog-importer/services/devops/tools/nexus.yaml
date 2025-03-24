@@ -1,0 +1,13 @@
+team: devops_team
+component_name: nexus
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - GLOB
+  - AMER
+environment:
+  - SHARED-SERVICES
+  - SHS
+aliases:
+  - nexus
+  - NEXUS
+external_id: nexus

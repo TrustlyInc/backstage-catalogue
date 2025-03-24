@@ -1,0 +1,12 @@
+team: dataops_team
+component_name: redshift-softarch
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+aliases:
+  - redshift-softarch
+  - REDSHIFT-SOFTARCH
+  - redshift_softarch
+external_id: Redshift Softarch

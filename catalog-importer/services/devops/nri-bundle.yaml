@@ -1,0 +1,16 @@
+team: devops_team
+component_name: nri-bundle
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - nri-bundle
+  - NRI-BUNDLE
+  - nri_bundle
+external_id: nri-bundle

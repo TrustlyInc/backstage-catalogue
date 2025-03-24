@@ -1,0 +1,13 @@
+team: integration_team
+component_name: merchant---rsi-betrivers-bally-casino-de---mid-2573
+description: Technical service to receive all the proactive alert related to RSI BetRivers Bally Casino DE - MID 2573
+escalation_policy: "Support Operations (Tier 2) Escalation Policy"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - merchant---rsi-betrivers-bally-casino-de---mid-2573
+  - MERCHANT---RSI-BETRIVERS-BALLY-CASINO-DE---MID-2573
+  - merchant___rsi_betrivers_bally_casino_de___mid_2573
+external_id: MERCHANT - RSI BetRivers Bally Casino DE - MID 2573

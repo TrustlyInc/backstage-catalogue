@@ -1,0 +1,20 @@
+team: devops_team
+component_name: fi-gateway-processor
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-FIGTW
+  - fi-gateway-batch
+  - merchant-gateway-batch
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - fi-gateway-processor
+  - FI-GATEWAY-PROCESSOR
+  - fi_gateway_processor
+external_id: fi-gateway-processor

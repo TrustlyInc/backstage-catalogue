@@ -1,0 +1,19 @@
+team: payment-integrations_team
+component_name: auto-recon
+description: Service dedicated to alerts coming from the auto reconciliation flow.
+escalation_policy: Payment Integrations Escalation Policy
+email_filter:
+  - summary: "[PAYPRO] [C] [Auto Recon]"
+  - summary: "[PAYPRO] [E] [Auto Recon]"
+  - summary: "[PAYPRO] [W] [Auto Recon]"
+  - summary: "[PAYPRO] [I] [Auto Recon]"
+  - summary: "[PAYPRO] [U] [Auto Recon]"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - auto-recon
+  - AUTO-RECON
+  - auto_recon
+external_id: Auto Recon

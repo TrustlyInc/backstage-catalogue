@@ -1,0 +1,12 @@
+team: mlops_team
+component_name: sagemaker
+escalation_policy: MLOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - sagemaker
+  - SAGEMAKER
+external_id: sagemaker

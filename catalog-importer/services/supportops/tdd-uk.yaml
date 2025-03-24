@@ -1,0 +1,15 @@
+team: integration_team
+component_name: tdd-uk
+description: Identified issue related to tdd-uk
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - tdd-uk
+  - TDD-UK
+  - tdd_uk
+external_id: tdd-uk

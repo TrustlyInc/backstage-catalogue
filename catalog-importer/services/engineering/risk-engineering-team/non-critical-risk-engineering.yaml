@@ -1,0 +1,12 @@
+team: risk-engineering_team
+component_name: non-critical-risk-engineering
+escalation_policy: Risk Engineering Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - non-critical-risk-engineering
+  - NON-CRITICAL-RISK-ENGINEERING
+  - non_critical_risk_engineering
+external_id: non-critical-risk-engineering

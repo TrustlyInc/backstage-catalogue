@@ -1,0 +1,18 @@
+team: mlops
+name: MLOps
+description: MLOps Team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 3
+  minutes_between_levels: 15
+  loops: 9
+external_id: mlops_team
+aliases:
+  - mlops
+  - MLOPS
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

@@ -1,0 +1,12 @@
+team: payment-integrations_team
+component_name: payments
+description: A general-purpose service to group payment alerts.
+escalation_policy: Payment Integrations Test Policy
+business_region:
+  - AMER
+environment:
+  - INT
+aliases:
+  - payments
+  - PAYMENTS
+external_id: Payments

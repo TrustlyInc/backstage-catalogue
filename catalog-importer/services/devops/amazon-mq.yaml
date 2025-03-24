@@ -1,0 +1,14 @@
+team: devops_team
+component_name: amazonmq
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - amazonmq
+  - AMAZONMQ
+external_id: AMAZONMQ

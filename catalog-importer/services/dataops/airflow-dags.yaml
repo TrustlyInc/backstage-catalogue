@@ -1,0 +1,15 @@
+team: dataops_team
+component_name: airflow-dags
+description: Service for AirFlow Dags
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - airflow-dags
+  - AIRFLOW-DAGS
+  - airflow_dags
+external_id: Airflow Dags

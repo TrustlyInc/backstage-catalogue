@@ -1,0 +1,12 @@
+team: sre_team
+component_name: third-parties
+escalation_policy: SRE Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - third-parties
+  - THIRD-PARTIES
+  - third_parties
+external_id: third-parties

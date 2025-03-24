@@ -1,0 +1,14 @@
+team: mlops_team
+component_name: ml-airflow-dags
+description: Service for ML-AirFlow Dags visibility
+escalation_policy: MLOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - ml-airflow-dags
+  - ML-AIRFLOW-DAGS
+  - ml_airflow_dags
+external_id: ML-Airflow Dags

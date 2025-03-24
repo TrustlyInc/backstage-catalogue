@@ -1,0 +1,15 @@
+team: devops_team
+component_name: greentea
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - greentea
+  - GREENTEA
+external_id: greentea

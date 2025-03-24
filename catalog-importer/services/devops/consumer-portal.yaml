@@ -1,0 +1,16 @@
+team: devops_team
+component_name: consumer-portal
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - consumer-portal
+  - CONSUMER-PORTAL
+  - consumer_portal
+external_id: consumer-portal

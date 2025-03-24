@@ -1,0 +1,18 @@
+team: devops_team
+component_name: user-portal
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - merchant-gateway-server
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - user-portal
+  - USER-PORTAL
+  - user_portal
+external_id: user-portal

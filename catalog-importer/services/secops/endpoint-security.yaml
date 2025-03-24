@@ -1,0 +1,13 @@
+team: secops_team
+component_name: endpoint-security
+description: Service dedicated to endpoint (Sentinel One) alarms. The team responsible for analyzing and fixing is the Cyber Security Team.
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - endpoint-security
+  - ENDPOINT-SECURITY
+  - endpoint_security
+external_id: Endpoint Security

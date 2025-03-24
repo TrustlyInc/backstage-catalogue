@@ -1,0 +1,11 @@
+team: devops_team
+component_name: sonarqube
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+aliases:
+  - sonarqube
+  - SONARQUBE
+external_id: sonarqube

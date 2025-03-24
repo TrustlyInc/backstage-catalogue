@@ -1,0 +1,15 @@
+team: integration_team
+component_name: proactive-alerts
+description: To received proactive incidents coming from our monitoring tools
+escalation_policy: "Support Operations (Tier 2) Escalation Policy"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - proactive-alerts
+  - PROACTIVE-ALERTS
+  - proactive_alerts
+external_id: proactive-alerts

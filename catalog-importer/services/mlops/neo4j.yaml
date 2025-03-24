@@ -1,0 +1,12 @@
+team: mlops_team
+component_name: neo4j
+escalation_policy: MLOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - ML
+  - ML-DEV
+aliases:
+  - neo4j
+  - NEO4J
+external_id: Neo4j

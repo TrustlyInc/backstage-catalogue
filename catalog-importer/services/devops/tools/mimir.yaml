@@ -1,0 +1,12 @@
+team: devops_team
+component_name: mimir
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - SHS
+  - SHS-DEV
+aliases:
+  - mimir
+  - MIMIR
+external_id: mimir

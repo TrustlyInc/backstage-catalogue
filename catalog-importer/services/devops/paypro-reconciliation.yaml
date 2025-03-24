@@ -1,0 +1,16 @@
+team: devops_team
+component_name: paypro-reconciliation
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - paypro-reconciliation
+  - PAYPRO-RECONCILIATION
+  - paypro_reconciliation
+external_id: paypro-reconciliation

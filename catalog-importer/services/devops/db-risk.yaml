@@ -1,0 +1,14 @@
+team: devops_team
+component_name: db-risk
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - UAT
+  - PRO
+aliases:
+  - db-risk
+  - DB-RISK
+  - db_risk
+external_id: DB-RISK

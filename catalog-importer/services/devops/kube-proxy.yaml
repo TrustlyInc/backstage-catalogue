@@ -1,0 +1,16 @@
+team: devops_team
+component_name: kube-proxy
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - kube-proxy
+  - KUBE-PROXY
+  - kube_proxy
+external_id: kube-proxy

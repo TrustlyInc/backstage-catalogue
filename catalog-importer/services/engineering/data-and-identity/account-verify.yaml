@@ -1,0 +1,13 @@
+team: identity-and-verification_team
+component_name: accounts-verify
+escalation_policy: Identity and Verification Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SBX
+  - PRO
+aliases:
+  - accounts-verify
+  - ACCOUNTS-VERIFY
+  - accounts_verify
+external_id: accounts-verify

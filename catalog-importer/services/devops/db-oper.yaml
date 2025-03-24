@@ -1,0 +1,13 @@
+team: devops_team
+component_name: db-oper
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - UAT
+  - PRO
+aliases:
+  - db-oper
+  - DB-OPER
+  - db_oper
+external_id: DB-OPER

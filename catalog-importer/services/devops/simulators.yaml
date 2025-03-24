@@ -1,0 +1,14 @@
+team: devops_team
+component_name: simulators
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+aliases:
+  - simulators
+  - SIMULATORS
+external_id: simulators

@@ -1,0 +1,16 @@
+team: devops_team
+component_name: prometheus-app
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - prometheus-app
+  - PROMETHEUS-APP
+  - prometheus_app
+external_id: prometheus-app

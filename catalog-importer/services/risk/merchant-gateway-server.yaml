@@ -1,0 +1,12 @@
+team: riskds_team
+component_name: merchant-gateway-server
+escalation_policy: Risk Data Science Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - merchant-gateway-server
+  - MERCHANT-GATEWAY-SERVER
+  - merchant_gateway_server
+external_id: merchant-gateway-server

@@ -1,0 +1,12 @@
+team: secops_team
+component_name: cyber-defense
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - cyber-defense
+  - CYBER-DEFENSE
+  - cyber_defense
+external_id: Cyber Defense

@@ -1,0 +1,12 @@
+team: secops_team
+component_name: security-incidents
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - security-incidents
+  - SECURITY-INCIDENTS
+  - security_incidents
+external_id: security-incidents

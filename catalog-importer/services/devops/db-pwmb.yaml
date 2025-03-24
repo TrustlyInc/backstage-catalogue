@@ -1,0 +1,14 @@
+team: devops_team
+component_name: db-pwmb
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - UAT
+  - PRO
+aliases:
+  - db-pwmb
+  - DB-PWMB
+  - db_pwmb
+external_id: DB-PWMB

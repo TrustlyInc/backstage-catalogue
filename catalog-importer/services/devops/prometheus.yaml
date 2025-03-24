@@ -1,0 +1,12 @@
+team: devops_team
+component_name: prometheus
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+  - SHS-DEV
+aliases:
+  - prometheus
+  - PROMETHEUS
+external_id: prometheus

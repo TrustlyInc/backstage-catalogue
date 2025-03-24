@@ -1,0 +1,20 @@
+team: devops_team
+component_name: report-processor
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-REPORT
+  - DB-PWMB
+  - DB-FIGTW
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - report-processor
+  - REPORT-PROCESSOR
+  - report_processor
+external_id: report-processor

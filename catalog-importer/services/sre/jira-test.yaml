@@ -1,0 +1,11 @@
+team: sre_team
+component_name: jira
+escalation_policy: SRE Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+aliases:
+  - jira
+  - JIRA
+external_id: jira

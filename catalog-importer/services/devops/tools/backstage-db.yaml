@@ -1,0 +1,12 @@
+team: devops_team
+component_name: db-backstage
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+aliases:
+  - db-backstage
+  - DB-BACKSTAGE
+  - db_backstage
+external_id: DB-BACKSTAGE

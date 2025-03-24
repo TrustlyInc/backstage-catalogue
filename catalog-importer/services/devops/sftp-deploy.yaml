@@ -1,0 +1,15 @@
+team: devops_team
+component_name: sftp-deploy
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - DEV
+  - INT
+  - PRO
+aliases:
+  - sftp-deploy
+  - SFTP-DEPLOY
+  - sftp_deploy
+external_id: sftp-deploy

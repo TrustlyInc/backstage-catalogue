@@ -1,0 +1,60 @@
+# AM Config for IncidentIO
+apiVersion: monitoring.coreos.com/v1alpha1
+kind: AlertmanagerConfig
+metadata:
+  labels:
+    alertmanagerConfig: app-alert-manager-config
+    app.kubernetes.io/instance: prometheus-config-local-amer-int-us-west-2-jazz
+  name: app-alert-manager-incident-io-configuration
+  namespace: monitoring
+spec:
+  route:
+    groupBy: ['job']
+    groupInterval: 10s
+    receiver: webhook-incidentio
+  receivers:
+    - name: webhook-incidentio
+      webhookConfigs:
+        - url: <urlWebHook>
+          sendResolved: true
+          httpConfig:
+            bearerTokenSecret:
+              name: alertmanager-incident-io-test
+              key: authKey
+---
+# Secret
+apiVersion: v1
+kind: Secret
+metadata:
+  annotations:
+  name: alertmanager-incident-io-test
+  namespace: monitoring
+type: Opaque
+stringData:
+  authKey: <authKey>
+
+---
+# Alert for test
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  labels:
+    team: devops
+  name: incidentio
+  namespace: monitoring
+spec:
+  groups:
+  - name: incidentiot
+    rules:
+    - alert: HenriqueTest
+      annotations:
+        team: sre_team
+        service: eks
+        priority: P3
+        environment: INT
+        business_region: AMER
+      expr: vector(0)
+      for: 0m
+      labels:
+        namespace: monitoring
+        pagerduty: 'false'

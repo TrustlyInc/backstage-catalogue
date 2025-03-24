@@ -1,0 +1,12 @@
+team: dataops_team
+component_name: greentea
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - DATA
+aliases:
+  - greentea
+  - GREENTEA
+external_id: greentea

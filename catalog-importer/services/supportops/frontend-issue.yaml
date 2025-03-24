@@ -1,0 +1,15 @@
+team: integration_team
+component_name: frontend-issue
+description: Identified issue related to frontend issue
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - frontend-issue
+  - FRONTEND-ISSUE
+  - frontend_issue
+external_id: frontend-issue

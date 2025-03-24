@@ -1,0 +1,14 @@
+team: mlops_team
+component_name: ml-airflow
+description: Service for ML-AirFlow Infra Visibility
+escalation_policy: MLOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - ml-airflow
+  - ML-AIRFLOW
+  - ml_airflow
+external_id: ML-Airflow

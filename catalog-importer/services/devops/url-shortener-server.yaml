@@ -1,0 +1,18 @@
+team: devops_team
+component_name: url-shortener-server
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-PWMB
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - url-shortener-server
+  - URL-SHORTENER-SERVER
+  - url_shortener_server
+external_id: url-shortener-server
