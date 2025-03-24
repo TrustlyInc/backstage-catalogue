@@ -1,0 +1,18 @@
+team: riskds
+name: Risk Data Science
+description: Risk Data Science team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 3
+  minutes_between_levels: 10
+  loops: 9
+external_id: riskds_team
+aliases:
+  - riskds
+  - RISKDS
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

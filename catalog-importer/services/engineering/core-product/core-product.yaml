@@ -1,0 +1,13 @@
+team: core-product_team
+component_name: general-service
+escalation_policy: "Eng - Core Product Escalation Policy"
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - general-service
+  - GENERAL-SERVICE
+  - general_service
+external_id: General Service

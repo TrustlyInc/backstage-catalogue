@@ -1,0 +1,20 @@
+team: payment-integrations_team
+component_name: bottomline-ptx-bacs
+description: Service dedicated to alerts coming from the Bottomline PTX BACS flow.
+escalation_policy: Payment Integrations Escalation Policy
+email_filter:
+  - summary: "[PAYPRO] [C] [Bottomline PTX BACS]"
+  - summary: "[PAYPRO] [E] [Bottomline PTX BACS]"
+  - summary: "[PAYPRO] [W] [Bottomline PTX BACS]"
+  - summary: "[PAYPRO] [I] [Bottomline PTX BACS]"
+  - summary: "[PAYPRO] [U] [Bottomline PTX BACS]"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - PRO
+aliases:
+  - bottomline-ptx-bacs
+  - BOTTOMLINE-PTX-BACS
+  - bottomline_ptx_bacs
+external_id: Bottomline PTX BACS

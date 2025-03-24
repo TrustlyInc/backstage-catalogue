@@ -1,0 +1,16 @@
+team: devops_team
+component_name: paypro-recon
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - paypro-recon
+  - PAYPRO-RECON
+  - paypro_recon
+external_id: paypro-recon

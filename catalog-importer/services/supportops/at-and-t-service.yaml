@@ -1,0 +1,14 @@
+team: integration_team
+component_name: merchant---at&t
+description: Technical service to receive all the proactive alert related to AT&T - MID 1000000288 and AT&T (IOT) - MID 1188858626
+escalation_policy: "Support Operations (Tier 2) Escalation Policy"
+business_region:
+  - AMER
+environment:
+  - SBX
+  - PRO
+aliases:
+  - merchant---at&t
+  - MERCHANT---AT&T
+  - merchant___at&t
+external_id: MERCHANT - AT&T

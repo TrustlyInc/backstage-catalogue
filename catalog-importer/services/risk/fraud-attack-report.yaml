@@ -1,0 +1,13 @@
+team: riskds_team
+component_name: fraud-attack-report
+escalation_policy: Risk Data Science Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - fraud-attack-report
+  - FRAUD-ATTACK-REPORT
+  - fraud_attack_report
+external_id: fraud-attack-report

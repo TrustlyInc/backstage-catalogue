@@ -1,0 +1,20 @@
+team: devops_team
+component_name: fi-gateway-server
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-FIGTW
+  - merchant-gateway-server
+  - token-engine-server
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - fi-gateway-server
+  - FI-GATEWAY-SERVER
+  - fi_gateway_server
+external_id: fi-gateway-server

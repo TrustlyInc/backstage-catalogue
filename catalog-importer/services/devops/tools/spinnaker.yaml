@@ -1,0 +1,11 @@
+team: devops_team
+component_name: spinnaker
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+aliases:
+  - spinnaker
+  - SPINNAKER
+external_id: spinnaker

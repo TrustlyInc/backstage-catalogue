@@ -1,0 +1,13 @@
+team: dataops_team
+component_name: db-metabase-main
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - db-metabase-main
+  - DB-METABASE-MAIN
+  - db_metabase_main
+external_id: db-metabase-main

@@ -1,0 +1,12 @@
+team: devops_team
+component_name: neo4j
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - neo4j
+  - NEO4J
+external_id: neo4j

@@ -1,0 +1,13 @@
+team: secops_team
+component_name: dlp-security
+description: Service related to alerts from DLP tool.
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - dlp-security
+  - DLP-SECURITY
+  - dlp_security
+external_id: DLP Security

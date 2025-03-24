@@ -1,0 +1,18 @@
+team: devops_team
+component_name: eks
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+  - GLOB
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+  - SHS-DEV
+  - SHS
+aliases:
+  - eks
+  - EKS
+external_id: EKS

@@ -1,0 +1,18 @@
+team: secops_team
+component_name: dlp-securities
+description: Service related to alerts from DLP tool.
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+email_filter:
+  - summary: Gmail Admin Quarantine Alert
+  - summary: New CAP Event -CONTENT THREAT DETECTED
+  - summary: New CAP Event -CONTENT THREAT BLOCKED
+  - source: dlp@mail.trustly.net
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - dlp-securities
+  - DLP-SECURITIES
+  - dlp_securities
+external_id: DLP Securities

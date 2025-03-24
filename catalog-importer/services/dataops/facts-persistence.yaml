@@ -1,0 +1,13 @@
+team: dataops_team
+component_name: facts-persistence
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - facts-persistence
+  - FACTS-PERSISTENCE
+  - facts_persistence
+external_id: Facts Persistence

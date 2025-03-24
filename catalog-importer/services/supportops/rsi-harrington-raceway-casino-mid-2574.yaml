@@ -1,0 +1,13 @@
+team: integration_team
+component_name: merchant---rsi-betrivers-harrington-raceway-&-casino---mid-2574
+description: Technical service to receive all the proactive alert related to RSI BetRivers Harrington Raceway & Casino - MID 2574
+escalation_policy: "Support Operations (Tier 2) Escalation Policy"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - merchant---rsi-betrivers-harrington-raceway-&-casino---mid-2574
+  - MERCHANT---RSI-BETRIVERS-HARRINGTON-RACEWAY-&-CASINO---MID-2574
+  - merchant___rsi_betrivers_harrington_raceway_&_casino___mid_2574
+external_id: MERCHANT - RSI BetRivers Harrington Raceway & Casino - MID 2574

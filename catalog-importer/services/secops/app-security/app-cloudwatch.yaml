@@ -1,0 +1,13 @@
+team: secops_team
+component_name: appsec---cloudwatch
+description: Events from AWS CloudWatch Alarms.
+escalation_policy: SecOps - App Security Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - CLOUD
+aliases:
+  - appsec---cloudwatch
+  - APPSEC---CLOUDWATCH
+  - appsec___cloudwatch
+external_id: APPSEC - CLOUDWATCH

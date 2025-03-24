@@ -1,0 +1,15 @@
+team: devops_team
+component_name: linkerd
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - linkerd
+  - LINKERD
+external_id: linkerd

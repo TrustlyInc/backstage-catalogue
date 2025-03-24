@@ -1,0 +1,11 @@
+team: dataops_team
+component_name: quicksight
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+aliases:
+  - quicksight
+  - QUICKSIGHT
+external_id: QuickSight

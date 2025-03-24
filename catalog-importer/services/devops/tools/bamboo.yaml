@@ -1,0 +1,11 @@
+team: devops_team
+component_name: bamboo
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - SHS
+aliases:
+  - bamboo
+  - BAMBOO
+external_id: bamboo

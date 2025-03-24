@@ -1,0 +1,18 @@
+team: payment-integrations
+name: Payment Integrations
+description: Payment Integrations Team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 2
+  minutes_between_levels: 30
+  loops: 9
+external_id: payment-integrations_team
+aliases:
+  - payment-integrations
+  - PAYMENT-INTEGRATIONS
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

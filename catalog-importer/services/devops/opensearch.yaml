@@ -1,0 +1,13 @@
+team: devops_team
+component_name: opensearch
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SHS
+  - PRO
+aliases:
+  - opensearch
+  - OPENSEARCH
+external_id: opensearch

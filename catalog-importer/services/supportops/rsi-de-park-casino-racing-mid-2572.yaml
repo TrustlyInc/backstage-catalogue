@@ -1,0 +1,13 @@
+team: integration_team
+component_name: merchant---rsi-betrivers-de-park-casino-&-racing---mid-2572
+description: Technical service to receive all the proactive alert related to RSI BetRivers DE Park Casino & Racing - MID 2572
+escalation_policy: "Support Operations (Tier 2) Escalation Policy"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - merchant---rsi-betrivers-de-park-casino-&-racing---mid-2572
+  - MERCHANT---RSI-BETRIVERS-DE-PARK-CASINO-&-RACING---MID-2572
+  - merchant___rsi_betrivers_de_park_casino_&_racing___mid_2572
+external_id: MERCHANT - RSI BetRivers DE Park Casino & Racing - MID 2572

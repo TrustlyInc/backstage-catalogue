@@ -1,0 +1,14 @@
+team: dba_team
+component_name: rds
+description: Service Monitoring DBA related for RDS generic alerts.
+escalation_policy: DBA Monitoring Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - rds
+  - RDS
+external_id: RDS

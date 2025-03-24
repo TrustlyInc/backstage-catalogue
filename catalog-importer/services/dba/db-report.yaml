@@ -1,0 +1,14 @@
+team: dba_team
+component_name: db-report
+description: Service Monitoring DBA related amer-report alerts.
+escalation_policy: DBA Monitoring Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - PRO
+aliases:
+  - db-report
+  - DB-REPORT
+  - db_report
+external_id: DB-REPORT

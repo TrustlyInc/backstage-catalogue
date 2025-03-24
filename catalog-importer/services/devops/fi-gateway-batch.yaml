@@ -1,0 +1,19 @@
+team: devops_team
+component_name: fi-gateway-batch
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-FIGTW
+  - merchant-gateway-batch
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - fi-gateway-batch
+  - FI-GATEWAY-BATCH
+  - fi_gateway_batch
+external_id: fi-gateway-batch

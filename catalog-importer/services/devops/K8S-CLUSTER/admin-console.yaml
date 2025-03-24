@@ -1,0 +1,16 @@
+team: devops_team
+component_name: nri
+description: NewRelic Agent
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - nri
+  - NRI
+external_id: nri

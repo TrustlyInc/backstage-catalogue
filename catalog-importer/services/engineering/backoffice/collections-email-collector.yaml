@@ -1,0 +1,14 @@
+team: backoffice_team
+component_name: collections-email-collector
+escalation_policy: BackOffice Escalation Policy
+email_filter:
+  - summary: "[amer-PROD] [ACTION REQUIRED] Uncollect transaction has been denied"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - collections-email-collector
+  - COLLECTIONS-EMAIL-COLLECTOR
+  - collections_email_collector
+external_id: Collections Email Collector

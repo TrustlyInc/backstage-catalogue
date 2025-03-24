@@ -1,0 +1,13 @@
+team: dataops_team
+component_name: airflow
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - airflow
+  - AIRFLOW
+external_id: Airflow

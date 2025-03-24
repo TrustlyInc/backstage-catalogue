@@ -1,0 +1,13 @@
+team: payment-integrations_team
+component_name: achpro-server
+escalation_policy: Payment Integrations Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - achpro-server
+  - ACHPRO-SERVER
+  - achpro_server
+external_id: achpro-server

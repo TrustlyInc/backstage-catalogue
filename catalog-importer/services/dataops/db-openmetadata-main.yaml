@@ -1,0 +1,13 @@
+team: dataops_team
+component_name: db-openmetadata-main
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - db-openmetadata-main
+  - DB-OPENMETADATA-MAIN
+  - db_openmetadata_main
+external_id: DB-OPENMETADATA-MAIN

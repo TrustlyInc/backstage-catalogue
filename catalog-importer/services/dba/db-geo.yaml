@@ -1,0 +1,14 @@
+team: dba_team
+component_name: db-geo
+description: Service Monitoring DBA related amer-geo-db alerts.
+escalation_policy: DBA Monitoring Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - PRO
+aliases:
+  - db-geo
+  - DB-GEO
+  - db_geo
+external_id: DB-GEO

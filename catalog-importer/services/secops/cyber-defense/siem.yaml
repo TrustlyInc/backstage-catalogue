@@ -1,0 +1,12 @@
+team: secops_team
+component_name: siem
+description: Service designate for SIEM events
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - siem
+  - SIEM
+external_id: siem

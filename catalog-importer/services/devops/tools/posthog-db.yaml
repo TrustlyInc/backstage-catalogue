@@ -1,0 +1,12 @@
+team: devops_team
+component_name: db-posthog
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+aliases:
+  - db-posthog
+  - DB-POSTHOG
+  - db_posthog
+external_id: DB-POSTHOG

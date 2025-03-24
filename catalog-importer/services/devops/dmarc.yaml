@@ -1,0 +1,12 @@
+team: devops_team
+component_name: dmarc
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - dmarc
+  - DMARC
+external_id: DMARC

@@ -1,0 +1,11 @@
+external_id: test
+team: sre_team
+component_name: test
+escalation_policy: SRE Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+aliases:
+  - test
+  - TEST

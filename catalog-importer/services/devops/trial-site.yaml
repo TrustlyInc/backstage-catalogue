@@ -1,0 +1,18 @@
+team: devops_team
+component_name: trial-site
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - merchant-gateway-server
+  - bank-panel
+  - payment-panel
+  - frontend-panel
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - PRO
+aliases:
+  - trial-site
+  - TRIAL-SITE
+  - trial_site
+external_id: trial-site

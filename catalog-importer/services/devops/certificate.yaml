@@ -1,0 +1,16 @@
+team: devops_team
+component_name: certificate
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+  - SHS
+aliases:
+  - certificate
+  - CERTIFICATE
+external_id: certificate

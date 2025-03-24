@@ -1,0 +1,18 @@
+team: secops_cloud
+name: SecOps - Cloud Security
+description: SecOps Cloud Security Team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 2
+  minutes_between_levels: 15
+  loops: 8
+external_id: secops_cloud_team
+aliases:
+  - secops_cloud
+  - SECOPS_CLOUD
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

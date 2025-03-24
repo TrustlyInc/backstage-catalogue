@@ -1,0 +1,14 @@
+team: devops_team
+component_name: db-other
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - UAT
+  - PRO
+aliases:
+  - db-other
+  - DB-OTHER
+  - db_other
+external_id: DB-OTHER

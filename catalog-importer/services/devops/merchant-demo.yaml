@@ -1,0 +1,18 @@
+team: devops_team
+component_name: merchant-demo
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-PWMB
+  - merchant-gateway-server
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+aliases:
+  - merchant-demo
+  - MERCHANT-DEMO
+  - merchant_demo
+external_id: merchant-demo

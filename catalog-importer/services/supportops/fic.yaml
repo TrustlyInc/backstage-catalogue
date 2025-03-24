@@ -1,0 +1,14 @@
+team: integration_team
+component_name: fic
+description: Identified issue related to fic
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - fic
+  - FIC
+external_id: fic

@@ -1,0 +1,15 @@
+team: sre_team
+component_name: test-email
+description: Service used in email events.
+escalation_policy: SRE Escalation Policy
+email_filter:
+  - summary: TEST EMAIL SEVERITY
+business_region:
+  - GLOB
+environment:
+  - INT
+aliases:
+  - test-email
+  - TEST-EMAIL
+  - test_email
+external_id: test email

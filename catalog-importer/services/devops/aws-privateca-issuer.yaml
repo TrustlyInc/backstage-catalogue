@@ -1,0 +1,16 @@
+team: devops_team
+component_name: aws-privateca-issuer
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - aws-privateca-issuer
+  - AWS-PRIVATECA-ISSUER
+  - aws_privateca_issuer
+external_id: aws-privateca-issuer

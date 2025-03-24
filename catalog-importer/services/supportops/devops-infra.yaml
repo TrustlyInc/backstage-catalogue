@@ -1,0 +1,15 @@
+team: integration_team
+component_name: devops-infra
+description: Identified issue related to devops-infra
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - devops-infra
+  - DEVOPS-INFRA
+  - devops_infra
+external_id: devops-infra

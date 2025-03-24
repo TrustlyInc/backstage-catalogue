@@ -1,0 +1,12 @@
+team: identity-and-verification_team
+component_name: trustly-id-server
+escalation_policy: Identity and Verification Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - trustly-id-server
+  - TRUSTLY-ID-SERVER
+  - trustly_id_server
+external_id: trustly-id-server

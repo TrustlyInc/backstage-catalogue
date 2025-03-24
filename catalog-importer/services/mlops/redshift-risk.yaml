@@ -1,0 +1,13 @@
+team: mlops_team
+component_name: redshift-risk
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - ML
+  - ML-DEV
+aliases:
+  - redshift-risk
+  - REDSHIFT-RISK
+  - redshift_risk
+external_id: Redshift Risk

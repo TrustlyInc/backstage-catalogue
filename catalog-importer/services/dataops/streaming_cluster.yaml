@@ -1,0 +1,13 @@
+team: dataops_team
+component_name: streaming-cluster
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - streaming-cluster
+  - STREAMING-CLUSTER
+  - streaming_cluster
+external_id: Streaming-Cluster

@@ -1,0 +1,15 @@
+team: platform_team
+component_name: merchant-gateway-server
+escalation_policy: Platform Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - merchant-gateway-server
+  - MERCHANT-GATEWAY-SERVER
+  - merchant_gateway_server
+external_id: merchant-gateway-server

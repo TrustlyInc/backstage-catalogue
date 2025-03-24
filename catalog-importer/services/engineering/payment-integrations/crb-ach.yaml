@@ -1,0 +1,19 @@
+team: payment-integrations_team
+component_name: crb-ach
+description: Service dedicated to alerts coming from the CRB ACH flow.
+escalation_policy: Payment Integrations Escalation Policy
+email_filter:
+  - summary: "[PAYPRO] [C] [CRB ACH]"
+  - summary: "[PAYPRO] [E] [CRB ACH]"
+  - summary: "[PAYPRO] [W] [CRB ACH]"
+  - summary: "[PAYPRO] [I] [CRB ACH]"
+  - summary: "[PAYPRO] [U] [CRB ACH]"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - crb-ach
+  - CRB-ACH
+  - crb_ach
+external_id: CRB ACH
