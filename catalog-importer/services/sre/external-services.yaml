@@ -1,0 +1,12 @@
+team: sre_team
+component_name: external-services
+escalation_policy: SRE Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - SHS
+aliases:
+  - external-services
+  - EXTERNAL-SERVICES
+  - external_services
+external_id: external-services

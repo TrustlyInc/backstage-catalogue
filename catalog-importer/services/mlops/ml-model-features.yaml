@@ -1,0 +1,14 @@
+team: mlops_team
+component_name: ml-model-features
+description: Service for machine learning model features monitoring
+escalation_policy: MLOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - ml-model-features
+  - ML-MODEL-FEATURES
+  - ml_model_features
+external_id: ml-model-features

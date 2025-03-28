@@ -1,0 +1,13 @@
+team: dataops_team
+component_name: redshift-dataops
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - redshift-dataops
+  - REDSHIFT-DATAOPS
+  - redshift_dataops
+external_id: Redshift DataOps

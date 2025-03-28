@@ -1,0 +1,13 @@
+team: payment-integrations_team
+component_name: other-processors
+description: Service dedicated to alerts coming from less used ODFIs.
+escalation_policy: Payment Integrations Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - other-processors
+  - OTHER-PROCESSORS
+  - other_processors
+external_id: Other Processors

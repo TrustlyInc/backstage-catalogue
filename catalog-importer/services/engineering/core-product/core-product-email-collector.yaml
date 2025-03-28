@@ -1,0 +1,21 @@
+team: core-product_team
+component_name: email-collector-service
+escalation_policy: "Eng - Core Product Escalation Policy"
+email_filter:
+  - summary: "[amer-PROD] Guaranteed transaction failed"
+    source: support@paywithmybank.com
+  - summary: "[amer-PROD] NSF Consumer Fee"
+    source: support@paywithmybank.com
+  - summary: "[amer-PROD] [ACTION REQUIRED] Trying to cancel a transaction with an old record version"
+    source: support@paywithmybank.com
+  - summary: "[amer-PROD] [ACTION REQUIRED] Error saving transaction that may have been authorized at the payment processor"
+    source: support@paywithmybank.com
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - email-collector-service
+  - EMAIL-COLLECTOR-SERVICE
+  - email_collector_service
+external_id: Email Collector Service

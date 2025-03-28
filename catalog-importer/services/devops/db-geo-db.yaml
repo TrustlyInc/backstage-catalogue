@@ -1,0 +1,13 @@
+team: devops_team
+component_name: db-geo
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - db-geo
+  - DB-GEO
+  - db_geo
+external_id: DB-GEO

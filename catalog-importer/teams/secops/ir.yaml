@@ -1,0 +1,18 @@
+team: secops_ir
+name: SecOps - IR
+description: SecOps IR Team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 2
+  minutes_between_levels: 15
+  loops: 9
+external_id: secops_ir_team
+aliases:
+  - secops_ir
+  - SECOPS_IR
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

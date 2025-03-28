@@ -1,0 +1,12 @@
+team: risk-engineering_team
+component_name: risk-engine-server
+escalation_policy: Risk Engineering Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - risk-engine-server
+  - RISK-ENGINE-SERVER
+  - risk_engine_server
+external_id: risk-engine-server

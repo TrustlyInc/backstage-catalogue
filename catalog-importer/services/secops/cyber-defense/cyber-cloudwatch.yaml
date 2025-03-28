@@ -1,0 +1,13 @@
+team: secops_team
+component_name: cyberdefense---cloudwatch
+description: Events from AWS CloudWatch Alarms.
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - CLOUD
+aliases:
+  - cyberdefense---cloudwatch
+  - CYBERDEFENSE---CLOUDWATCH
+  - cyberdefense___cloudwatch
+external_id: CYBERDEFENSE - CLOUDWATCH

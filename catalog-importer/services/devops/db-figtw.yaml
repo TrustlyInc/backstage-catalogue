@@ -1,0 +1,14 @@
+team: devops_team
+component_name: db-figtw
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - UAT
+  - PRO
+aliases:
+  - db-figtw
+  - DB-FIGTW
+  - db_figtw
+external_id: DB-FIGTW

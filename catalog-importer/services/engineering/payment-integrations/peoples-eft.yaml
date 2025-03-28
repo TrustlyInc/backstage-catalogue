@@ -1,0 +1,13 @@
+team: payment-integrations_team
+component_name: peoples-eft
+description: Service dedicated to alerts coming from the Peoples EFT flow.
+escalation_policy: Payment Integrations Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - peoples-eft
+  - PEOPLES-EFT
+  - peoples_eft
+external_id: Peoples EFT

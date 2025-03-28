@@ -1,0 +1,16 @@
+team: secops_team
+component_name: endpoint-securities
+description: Service dedicated to endpoint (Sentinel One) alarms. The team responsible for analyzing and fixing is the Cyber Security Team.
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+email_filter:
+  - summary: New suspicious threat detected
+  - source: noreply@mailsender.sentinelone.net
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - endpoint-securities
+  - ENDPOINT-SECURITIES
+  - endpoint_securities
+external_id: Endpoint Securities

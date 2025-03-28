@@ -1,0 +1,12 @@
+team: devops_team
+component_name: opensearch-dashboards
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+aliases:
+  - opensearch-dashboards
+  - OPENSEARCH-DASHBOARDS
+  - opensearch_dashboards
+external_id: opensearch-dashboards

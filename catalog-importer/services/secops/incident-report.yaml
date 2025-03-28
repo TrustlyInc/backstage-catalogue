@@ -1,0 +1,13 @@
+team: secops_team
+component_name: incident-report
+description: This service is used by Incident Report Form used in the Workflow of Slack and Email Notification.
+escalation_policy: SecOps - Cyber Defense Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - incident-report
+  - INCIDENT-REPORT
+  - incident_report
+external_id: Incident Report

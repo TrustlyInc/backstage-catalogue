@@ -1,0 +1,16 @@
+team: devops_team
+component_name: aws-load-balancer-controller
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - aws-load-balancer-controller
+  - AWS-LOAD-BALANCER-CONTROLLER
+  - aws_load_balancer_controller
+external_id: aws-load-balancer-controller

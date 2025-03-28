@@ -1,0 +1,13 @@
+team: integration_team
+component_name: monitor-merchants
+description: Service for Monitor merchants responses
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - monitor-merchants
+  - MONITOR-MERCHANTS
+  - monitor_merchants
+external_id: monitor-merchants

@@ -1,0 +1,12 @@
+team: backoffice_team
+component_name: collections-engineering
+escalation_policy: BackOffice Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - collections-engineering
+  - COLLECTIONS-ENGINEERING
+  - collections_engineering
+external_id: collections-engineering

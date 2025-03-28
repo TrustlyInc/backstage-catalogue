@@ -1,0 +1,16 @@
+team: devops_team
+component_name: kube-dns-autoscaler
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - kube-dns-autoscaler
+  - KUBE-DNS-AUTOSCALER
+  - kube_dns_autoscaler
+external_id: kube-dns-autoscaler

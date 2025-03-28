@@ -1,0 +1,19 @@
+team: devops_team
+component_name: frontend-panel
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - fi-gateway-server
+  - merchant-gateway-server
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - frontend-panel
+  - FRONTEND-PANEL
+  - frontend_panel
+external_id: frontend-panel

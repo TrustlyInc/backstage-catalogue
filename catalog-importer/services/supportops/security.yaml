@@ -1,0 +1,14 @@
+team: integration_team
+component_name: security
+description: Identified issue related to security
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - security
+  - SECURITY
+external_id: security

@@ -1,0 +1,16 @@
+team: devops_team
+component_name: nexus-docker
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - nexus-docker
+  - NEXUS-DOCKER
+  - nexus_docker
+external_id: nexus-docker

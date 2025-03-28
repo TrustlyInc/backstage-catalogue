@@ -1,0 +1,16 @@
+team: devops_team
+component_name: eso
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SHS
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - eso
+  - ESO
+external_id: eso

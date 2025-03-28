@@ -1,0 +1,14 @@
+team: integration_team
+component_name: data
+description: Identified issue related to data
+escalation_policy: "[MERCHANT] TIER 2 SUPPORT ESCALATION-ep"
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - SBX
+  - PRO
+aliases:
+  - data
+  - DATA
+external_id: data

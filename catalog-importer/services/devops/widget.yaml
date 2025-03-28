@@ -1,0 +1,15 @@
+team: devops_team
+component_name: widget
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - widget
+  - WIDGET
+external_id: widget

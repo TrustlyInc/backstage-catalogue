@@ -1,0 +1,16 @@
+team: devops_team
+component_name: risk-teapott
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - risk-teapott
+  - RISK-TEAPOTT
+  - risk_teapott
+external_id: risk-teapott

@@ -1,0 +1,16 @@
+team: devops_team
+component_name: cluster-autoscaler-aws-cluster-autoscaler
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - cluster-autoscaler-aws-cluster-autoscaler
+  - CLUSTER-AUTOSCALER-AWS-CLUSTER-AUTOSCALER
+  - cluster_autoscaler_aws_cluster_autoscaler
+external_id: cluster-autoscaler-aws-cluster-autoscaler

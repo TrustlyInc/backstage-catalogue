@@ -1,0 +1,20 @@
+team: devops_team
+component_name: bank-panel
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - merchant-gateway-server
+  - fi-gateway-server
+  - risk-engine
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - bank-panel
+  - BANK-PANEL
+  - bank_panel
+external_id: bank-panel

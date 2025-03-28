@@ -1,0 +1,18 @@
+team: secops_app
+name: SecOps - App Security
+description: SecOps APPsec Team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 2
+  minutes_between_levels: 15
+  loops: 9
+external_id: secops_app_team
+aliases:
+  - secops_app
+  - SECOPS_APP
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

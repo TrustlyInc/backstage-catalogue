@@ -1,0 +1,16 @@
+team: devops_team
+component_name: logstash
+description: Events coming from Logstash
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - logstash
+  - LOGSTASH
+external_id: logstash

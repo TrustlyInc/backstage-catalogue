@@ -1,0 +1,18 @@
+team: devops_team
+component_name: fi-connector-server
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-FIGTW
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - fi-connector-server
+  - FI-CONNECTOR-SERVER
+  - fi_connector_server
+external_id: fi-connector-server

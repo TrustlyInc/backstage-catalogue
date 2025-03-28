@@ -1,0 +1,12 @@
+team: secops_team
+component_name: github
+description: Events from GitHub.
+escalation_policy: SecOps - App Security Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - github
+  - GITHUB
+external_id: github

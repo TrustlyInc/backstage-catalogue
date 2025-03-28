@@ -1,0 +1,21 @@
+team: devops_team
+component_name: merchant-portal
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-REPORT
+  - report-processor
+  - fi-gateway-server
+  - merchant-gateway-server
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - merchant-portal
+  - MERCHANT-PORTAL
+  - merchant_portal
+external_id: merchant-portal

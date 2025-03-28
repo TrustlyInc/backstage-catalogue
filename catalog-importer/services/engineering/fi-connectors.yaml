@@ -1,0 +1,16 @@
+team: platform_team
+component_name: fi-connectors
+escalation_policy: Platform Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - fi-connectors
+  - FI-CONNECTORS
+  - fi_connectors
+external_id: fi-connectors

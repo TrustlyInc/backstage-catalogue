@@ -1,0 +1,15 @@
+team: devops_team
+component_name: start
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - start
+  - START
+external_id: start

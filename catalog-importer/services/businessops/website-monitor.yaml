@@ -1,0 +1,13 @@
+team: businessops_team
+component_name: website-monitor
+description: Service created to monitor proactively issues with Trustly website.
+escalation_policy: Business Operations Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - website-monitor
+  - WEBSITE-MONITOR
+  - website_monitor
+external_id: Website Monitor

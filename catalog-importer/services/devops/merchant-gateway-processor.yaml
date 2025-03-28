@@ -1,0 +1,19 @@
+team: devops_team
+component_name: merchant-gateway-processor
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-PWMB
+  - merchant-gateway-batch
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - merchant-gateway-processor
+  - MERCHANT-GATEWAY-PROCESSOR
+  - merchant_gateway_processor
+external_id: merchant-gateway-processor

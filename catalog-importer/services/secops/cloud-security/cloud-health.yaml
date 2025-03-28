@@ -1,0 +1,12 @@
+team: secops_team
+component_name: health
+description: Events from AWS Health.
+escalation_policy: SecOps - Cloud Security Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - CLOUD
+aliases:
+  - health
+  - HEALTH
+external_id: Health

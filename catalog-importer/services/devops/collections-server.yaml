@@ -1,0 +1,16 @@
+team: devops_team
+component_name: collections-server
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - collections-server
+  - COLLECTIONS-SERVER
+  - collections_server
+external_id: collections-server

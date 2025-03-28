@@ -1,0 +1,15 @@
+team: devops_team
+component_name: proxy
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - proxy
+  - PROXY
+external_id: proxy

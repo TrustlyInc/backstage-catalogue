@@ -1,0 +1,12 @@
+team: dataops_team
+component_name: eks
+escalation_policy: DataOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - DATA
+  - DATA-DEV
+aliases:
+  - eks
+  - EKS
+external_id: EKS

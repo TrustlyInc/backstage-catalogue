@@ -1,0 +1,11 @@
+team: sre_team
+component_name: bastion
+escalation_policy: SRE Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+aliases:
+  - bastion
+  - BASTION
+external_id: bastion

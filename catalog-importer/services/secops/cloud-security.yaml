@@ -1,0 +1,31 @@
+team: secops_team
+component_name: cloud-security
+description: Service related to cloud alarms such as Guardduty, macie, inspector and security hub alerts.
+escalation_policy: SecOps - Cloud Security Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+  - GLOB
+environment:
+  - DEV
+  - INT
+  - UAT
+  - SBX
+  - PRO
+  - STS
+  - IAM
+  - ENT-DEV
+  - DATA-DEV
+  - DATA
+  - CORP
+  - STG
+  - SECURITY
+  - MANAGEMENT
+  - LOG-ARCHIVE
+  - AUDIT
+  - ENTERPRISE
+aliases:
+  - cloud-security
+  - CLOUD-SECURITY
+  - cloud_security
+external_id: Cloud security

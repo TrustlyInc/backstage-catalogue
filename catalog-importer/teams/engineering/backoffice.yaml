@@ -1,0 +1,18 @@
+team: backoffice
+name: Eng - Backoffice
+description: Backoffice Team
+escalation_policy:
+  time_zone: America/Sao_Paulo
+  levels: 2
+  minutes_between_levels: 15
+  loops: 3
+external_id: backoffice_team
+aliases:
+  - backoffice
+  - BACKOFFICE
+tech_lead: "null"
+members:
+  - "null"
+non-production_channel: '#null'
+production_channel: '#null'
+manager: "null"

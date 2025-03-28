@@ -1,0 +1,13 @@
+team: dba_team
+component_name: postgresql
+description: Service Monitoring DBA related PostgreSQL alerts.
+escalation_policy: DBA Monitoring Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - PRO
+aliases:
+  - postgresql
+  - POSTGRESQL
+external_id: PostgreSQL

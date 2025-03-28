@@ -1,0 +1,12 @@
+team: sre_team
+component_name: manual-trigger
+escalation_policy: SRE Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - PRO
+aliases:
+  - manual-trigger
+  - MANUAL-TRIGGER
+  - manual_trigger
+external_id: manual-trigger

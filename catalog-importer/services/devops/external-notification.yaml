@@ -1,0 +1,16 @@
+team: devops_team
+component_name: external-notification
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - external-notification
+  - EXTERNAL-NOTIFICATION
+  - external_notification
+external_id: external-notification

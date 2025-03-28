@@ -1,0 +1,12 @@
+team: devops_team
+component_name: db-grafana
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+aliases:
+  - db-grafana
+  - DB-GRAFANA
+  - db_grafana
+external_id: DB-GRAFANA

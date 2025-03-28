@@ -1,0 +1,12 @@
+team: devops_team
+component_name: account-verification
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - account-verification
+  - ACCOUNT-VERIFICATION
+  - account_verification
+external_id: account-verification

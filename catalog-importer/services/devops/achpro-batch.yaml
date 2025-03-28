@@ -1,0 +1,19 @@
+team: devops_team
+component_name: achpro-batch
+escalation_policy: DevOps Escalation Policy
+depends_on:
+  - DB-OTHER
+  - fi-gateway-processor
+business_region:
+  - AMER
+  - EMEA
+environment:
+  - INT
+  - UAT
+  - SBX
+  - PRO
+aliases:
+  - achpro-batch
+  - ACHPRO-BATCH
+  - achpro_batch
+external_id: achpro-batch

@@ -1,0 +1,13 @@
+team: secops_team
+component_name: route-53-resolver-dns-firewall---aws-list
+description: Events from AWS Route 53 Resolver DNS Firewall.
+escalation_policy: SecOps - Cloud Security Escalation Policy
+business_region:
+  - GLOB
+environment:
+  - CLOUD
+aliases:
+  - route-53-resolver-dns-firewall---aws-list
+  - ROUTE-53-RESOLVER-DNS-FIREWALL---AWS-LIST
+  - route_53_resolver_dns_firewall___aws_list
+external_id: Route 53 Resolver DNS Firewall - AWS List

@@ -1,0 +1,19 @@
+team: payment-integrations_team
+component_name: crb-rtp
+description: Service dedicated to alerts coming from the CRB RTP flow.
+escalation_policy: Payment Integrations Escalation Policy
+email_filter:
+  - summary: "[PAYPRO] [C] [CRB RTP]"
+  - summary: "[PAYPRO] [E] [CRB RTP]"
+  - summary: "[PAYPRO] [W] [CRB RTP]"
+  - summary: "[PAYPRO] [I] [CRB RTP]"
+  - summary: "[PAYPRO] [U] [CRB RTP]"
+business_region:
+  - AMER
+environment:
+  - PRO
+aliases:
+  - crb-rtp
+  - CRB-RTP
+  - crb_rtp
+external_id: CRB RTP

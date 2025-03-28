@@ -1,0 +1,12 @@
+team: devops_team
+component_name: db-spinnaker
+escalation_policy: DevOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - SHS
+aliases:
+  - db-spinnaker
+  - DB-SPINNAKER
+  - db_spinnaker
+external_id: DB-SPINNAKER

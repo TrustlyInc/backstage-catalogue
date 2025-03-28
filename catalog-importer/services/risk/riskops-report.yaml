@@ -1,0 +1,13 @@
+team: riskops_team
+component_name: riskops-report
+escalation_policy: RiskOps Escalation Policy
+business_region:
+  - AMER
+environment:
+  - INT
+  - PRO
+aliases:
+  - riskops-report
+  - RISKOPS-REPORT
+  - riskops_report
+external_id: riskops-report
